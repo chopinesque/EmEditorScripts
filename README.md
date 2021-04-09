@@ -1,0 +1,2 @@
+# EmEditorScripts
+Various EmEditor scripts
