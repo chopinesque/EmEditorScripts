@@ -1,6 +1,6 @@
 # EmEditorScripts
 
- # Wikidata-transform
+ ## Wikidata-transform
 
 This script will transform wikidata names that have been copied from a page like this: https://www.wikidata.org/wiki/Q192541#sitelinks-wikipedia (once the Edit button has been clicked). The output after running the script will be:
 
