@@ -1,0 +1,7 @@
+document.selection.Replace(" \\(.*?\\)","",eeReplaceAll | eeFindReplaceRegExp,0);
+document.selection.Replace("^(.*) \\n(.*)\\n","\\1: \\2; ",eeReplaceAll | eeFindReplaceRegExp,0);
+document.selection.Replace("^\\A(.*)$","==Translations==\\n$1",eeReplaceAll | eeFindReplaceRegExp,0);
+document.selection.Replace("; $","",eeReplaceAll | eeFindReplaceRegExp,0);
+document.selection.SelectAll();
+document.selection.Copy(eeCopyUnicode);
+editor.ExecuteCommandByID(4120);
