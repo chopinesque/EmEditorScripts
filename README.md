@@ -2,7 +2,7 @@
 
  ## Wikidata-transform
 
-This script will transform wikidata names that have been copied from a page like this: https://www.wikidata.org/wiki/Q192541#sitelinks-wikipedia (once the Edit button has been clicked and the Wikipedia titles copied). You will have to open a new EmEditor document, paste what you copied, then run the script (as a macro). The output after running the script will be the following. The text will then be copied to the clipboard and the new doc will be closed without saving. You can see how this script has been used to add content here: https://lsj.gr/wiki/%CE%9A%CF%84%CE%B7%CF%83%CE%B9%CF%86%E1%BF%B6%CE%BD
+This script will transform wikidata names that have been copied from a [page like this](https://www.wikidata.org/wiki/Q192541#sitelinks-wikipedia).  (once the Edit button has been clicked and the Wikipedia titles copied). You will have to open a new EmEditor document, paste what you copied, then run the script (as a macro). The output after running the script will be the following. The text will then be copied to the clipboard and the new doc will be closed without saving. You can see how this script has been used to add content [here](https://lsj.gr/wiki/%CE%9A%CF%84%CE%B7%CF%83%CE%B9%CF%86%E1%BF%B6%CE%BD).
 
 ```
 ==Translations==
